@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shahwaz,
 
-<!--
-**shahwaz1225/shahwaz1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who enjoys building creative, efficient, and user-friendly solutions. I like exploring new technologies, solving real-world problems, and continuously improving my skills.
 
-Here are some ideas to get you started:
+## About Me
+- I’m currently working on improving my development skills
+- I’m currently learning new frameworks, tools, and best practices
+- I’m looking to collaborate on interesting projects
+- I’m looking for help with learning advanced concepts and real-world application
+- Ask me about web development, programming, and tech
+- How to reach me: [your email or social link]
+- Pronouns: He/Him
+- Fun fact: I enjoy learning by building projects and experimenting with new ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript / TypeScript
+- HTML / CSS
+- React / Node.js
+- Git / GitHub
+- Problem Solving
+- UI/UX basics
+
+## Tech Stack
+```bash
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express
+Tools: Git, GitHub, VS Code
